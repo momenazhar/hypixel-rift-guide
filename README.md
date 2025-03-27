@@ -19,4 +19,15 @@ type GroupTask = {
 };
 
 type Task = SingleTask | GroupTask;
+type AreaId =
+    | "wyld_woods"
+    | "black_lagoon"
+    | "west_village"
+    | "dreadfarm"
+    | "village_plaza"
+    | "living_cave"
+    | "colosseum"
+    | "stillgore_chateau"
+    | "mountaintop";
+type Data = Record<AreaId, Task[]>;
 ```
