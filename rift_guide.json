@@ -77,54 +77,49 @@
             "description": "Find the Enigma Souls in the Rift to upgrade your Enigma Cloak.",
             "tasks": [
                 {
-                    "id": "rift_mountain_balloons",
-                    "name": "Enigma: Mountain Balloons",
-                    "description": "Pop all the balloons in The Mountaintop using a blowgun."
+                    "id": "rift_enigma_bark",
+                    "name": "Enigma: Tough Bark",
+                    "description": "Bark bark bark. Find the glowing bark on the bark bark bark."
                 },
                 {
-                    "id": "rift_mountain_flowerpot",
-                    "name": "Enigma: Rose's End Flower Pot",
-                    "description": "A string of flower pots lead to an Enigma Soul somewhere in The Mountaintop."
+                    "id": "rift_enigma_flower_pot_1",
+                    "name": "Enigma: Woods Flower Pot",
+                    "description": "A string of flower pots lead to an Enigma Soul somewhere in the Wyld Woods."
                 },
                 {
-                    "id": "rift_mountain_ikrus",
-                    "name": "Enigma: Ikrus",
-                    "description": "Help Ikrus squat his way out of the Rift."
+                    "id": "rift_enigma_jump_pad_1",
+                    "name": "Enigma: Up in the Sky",
+                    "description": "There is an Enigma Soul waaay up in the sky."
                 },
                 {
-                    "id": "rift_mountain_leap_of_faith",
-                    "name": "Enigma: Leap of Faith",
-                    "description": "Jump."
+                    "id": "rift_enigma_original",
+                    "name": "Enigma: Next to Enigma",
+                    "description": "There is an Enigma Soul in Enigma's Crib. It's meant as an example soul, so it's awkward if you missed it!"
                 },
                 {
-                    "id": "rift_mountain_phantom",
+                    "id": "rift_enigma_phantom",
                     "name": "Enigma: Fleespook",
-                    "description": "Follow the Fleespook in The Mountaintop!"
+                    "description": "Follow the Fleespook in the Wyld Woods!"
                 },
                 {
-                    "id": "rift_mountain_sungecko_perks",
-                    "name": "Enigma: Sun Gecko",
-                    "description": "Purchase an Enigma Soul from the Sun Gecko Essence Shop."
+                    "id": "rift_enigma_pressure_water",
+                    "name": "Enigma: Pressurized",
+                    "description": "There is an Enigma Soul under pressurized water in the Wyld Woods lake, but how to get in?"
                 },
                 {
-                    "id": "rift_mountain_ubik_averages",
-                    "name": "Enigma: Ubik's Averages",
-                    "description": "Choose the correct Number."
+                    "id": "rift_enigma_silk_1",
+                    "name": "Enigma: Between Branches",
+                    "description": "An Enigma Soul is chilling mid-air somewhere between branches in the Wyld Woods."
                 },
                 {
-                    "id": "rift_mountain_ubik_boxes",
-                    "name": "Enigma: Ubik's Boxes",
-                    "description": "Choose the correct Box from Ubik."
+                    "id": "rift_enigma_two_plates",
+                    "name": "Enigma: Two Plates",
+                    "description": "An Enigma Soul is locked in glass. Need two players!"
                 },
                 {
-                    "id": "rift_mountain_ubik_tats",
-                    "name": "Enigma: Unik's Tit for Tats",
-                    "description": "Play Split or Steal with Ubik."
-                },
-                {
-                    "id": "rift_mountain_walk_of_fame_wall",
-                    "name": "Enigma: Walk of Fame",
-                    "description": "There is an Enigma Soul near some horse-relevant hay in the Walk of Fame."
+                    "id": "rift_enigma_wither_cage",
+                    "name": "Enigma: Wither Cage",
+                    "description": "There is an Enigma Soul hiding in plain sight near Porhtal."
                 }
             ]
         }
